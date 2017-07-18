@@ -1,6 +1,13 @@
 # Landing for Contest #1
 
 It`s a landing page for the contest of the Python programmers. Work is still in progress. Only a static HTML page is available now.
+Merge conflicts with Meld.
+
+# How to launch
+
+```bash
+$ python3 -m http.server
+```
 
 # Project Goals
 
